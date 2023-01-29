@@ -1,0 +1,32 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "MySql Local",
+            "database": "IG_clone",
+            "username": "root",
+            "password": "Nonsoikenwa#1994",
+            "connectionTimeout": 10
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "root",
+            "database": "sql_test",
+            "username": "root",
+            "password": "Nonsoikenwa#1994",
+            "connectionTimeout": 10
+        }
+    ]
+}
