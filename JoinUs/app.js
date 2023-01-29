@@ -8,7 +8,7 @@ app.set("view engine", "ejs");
     host : 'localhost',
     user : 'root',
     database : 'sql_test',
-    password: "Nonsoikenwa#1994",
+    // password: "",
       insecureAuth : true
     });
 
